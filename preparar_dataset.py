@@ -1,3 +1,8 @@
+# Proyecto desarrollado como parte del Trabajo de Fin de Grado
+# Grado en Ingeniería Informática de UNIR.
+# Autor: Oscar Pérez Centeno
+# Año: 2025-2026
+
 import pandas as pd
 
 INPUT = "D:\OneDrive\Documentos\Adaptación al Grado en Ingeniería Informática\GRADO INFORMATICA\TFG\MANUEL\dataset\es_hf_102024.csv"

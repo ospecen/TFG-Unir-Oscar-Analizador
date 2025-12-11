@@ -1,3 +1,8 @@
+# Proyecto desarrollado como parte del Trabajo de Fin de Grado
+# Grado en Ingeniería Informática de UNIR.
+# Autor: Oscar Pérez Centeno
+# Año: 2025-2026
+
 # IMPORTAMOS BIBLIOTECAS
 import re
 import pandas as pd
